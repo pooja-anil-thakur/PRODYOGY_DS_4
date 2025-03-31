@@ -22,7 +22,8 @@ python sentiment_analysis.py
 ```
 
 ## Dataset
-Ensure you have the dataset extracted in the appropriate directory. Modify the script if needed to load the correct dataset path.
+The dataset required for this project is included in the repository. Ensure it remains in the data/ directory. The script is pre-configured to load it from this location.
+
 
 ## Results
 The model achieves a good accuracy in sentiment classification. For details, check the evaluation metrics in the script output.
